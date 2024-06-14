@@ -9,7 +9,7 @@ This module/service contain 2 API:
 
 ## Technical stack
 - Infrastructure: Docker, docker-compose
-- Framework: NestJs (Typescript)
+- Framework: NestJs (Typescript) (node: v18.19.0)
 - Database: Postgres
 - File management: Local storage
 - Testing tool: Jest
